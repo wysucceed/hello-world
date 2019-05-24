@@ -1,5 +1,4 @@
 # hello-world
-strat-repository
 wangyang test
 白日依山尽，黄河入海流。
 欲穷千里目，更上一层楼。
